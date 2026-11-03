@@ -11,7 +11,7 @@ I deliver solutions banks and credit unions can keep running: the system already
 
 ## 🔭 What I'm working on
 
-- 🏦 **UST, Brasília to Austin** — squads of 4–10 on microservices migration, CI/CD, and App Store and Play releases for U.S. financial institutions.
+- 🏦 **UST, Brasília to Austin** — squads of 4–10 developing banking solutions for U.S. financial institutions, including microservices migration, CI/CD, and App Store and Play releases.
 - 🧠 **Applied AI** — agentic workflows, long-term memory, and RAG pipelines for developer tools and products.
 - ⚛️ **JavaScript and TypeScript** — React interfaces and Node services, next to Java and Spring Boot on AWS.
 - ⛓️ **Solana** — public Anchor programs with TypeScript clients.
