@@ -30,6 +30,12 @@ A token grant tracked off-chain can be paid early, paid twice, or taken back wit
 
 `TypeScript · Node.js · Solana`
 
+### 🌧️ [SettlementOracle ZK](https://github.com/SettlementOracle-ZK) — *a payout that follows the oracle*
+
+Parametric cover stalls when someone has to read a weather or price feed and then release the escrow by hand. SettlementOracle ZK pays out on Solana when the oracle attests the event, and a zero-knowledge proof shows the rule ran correctly against that data.
+
+`TypeScript · Next.js · Solana · Rust`
+
 ---
 
 ## 🛠️ Tech I work with
